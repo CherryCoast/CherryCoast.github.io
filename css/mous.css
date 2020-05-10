@@ -1,0 +1,8 @@
+/** 鼠标样式 开始**/
+/** 普通指针样式**/
+body {
+cursor: url(https://hehejun.cn/js/mous/normal.cur), default;
+}
+/** 链接指针样式**/
+a:hover{cursor:url(https://hehejun.cn/js/mous/ayuda.cur), pointer;}
+/** 鼠标样式 结束**/
